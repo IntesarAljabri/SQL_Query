@@ -15,7 +15,7 @@ INSERT INTO books (title, author, price) VALUES ('1984', 'George Orwell', 8.99);
 INSERT INTO books (title, author, price) VALUES ('Pride and Prejudice', 'Jane Austen',  9.75);
 
 
-select  title , author, price from books where price >10.00 ;
+select  title , author, price from books where price > 10.00 ;
 
 
 /* third table */
